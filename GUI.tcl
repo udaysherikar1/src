@@ -192,9 +192,6 @@ proc ::CustomConnectors::CheckProfileAnUpdaEid {args} {
 	
 		set lstEids {Rigids-Bar-Rigids}
 		set lstEidsRealize {Rigids-Fis}
-		
-
-
 	} else {
 		set lstEids {Rigids-Bar-Rigids}
 		set lstEidsRealize {Rigids-Bar-Rigids-Fis Rigids-Fis}
