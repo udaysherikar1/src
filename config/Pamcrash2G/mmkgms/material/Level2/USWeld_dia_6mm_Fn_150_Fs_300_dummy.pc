@@ -1,0 +1,21 @@
+$#         IDMAT   MATYP             RHO   ISINT    ISHG  ISTRAT   IFROZ
+MATER /        1     302          1.1e-6       0       0       0       0
+$# BLANK                                                     QVM           IDMPD
+                                                              1.               0
+$#                                                                         TITLE
+NAME USWeld_dia_6mm_Fn_150_Fs_300_dummy                                               
+$#  SLFACM     FSNVL    DELTNL     STNOR     STTAN     IFLGC     BLANK    TLSTIF
+        0.        0.        0.        9.       40.         0                    
+$#   I3DOF    TOLCOR     IDRUP    IFelim
+         0        0.         2          
+
+
+
+
+$#        IDRUPT   IRUPT   IFMON  FILTER
+RUPMO /        2       0       0        
+$#                                                                         TITLE
+NAME USWeld_Rupture_150_300                                                     
+$# BLANK   FAILT   FAILD  AFAILN  AFAILS      A1      A2    INTF      D1      D2
+              0.      0.      5.      7.      1.      1.      20     0.1     1.5
+ENDDATA

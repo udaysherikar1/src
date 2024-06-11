@@ -1,0 +1,393 @@
+# TclPro::Compiler::Include
+
+if {[catch {package require tbcload 1.6} err] == 1} {
+    return -code error "[info script]: The TclPro ByteCode Loader is not available or does not support the correct version -- $err"
+}
+tbcload::bceval {
+TclPro ByteCode 2 0 1.7 8.5
+5 0 55 18 0 0 48 0 4 5 5 -1 -1
+55
+w0E<!(H&s!/HW<!9Ki<!5/Ypv:tMH&4;tl#62o9v7>,>!:uS=!;fAs!B.RK%B:3-&+-!!
+5
+B=xOw,!
+5
+M=xOw+!
+18
+x
+9
+njkSAt=sp@1v
+x
+4
+uKhgC
+x
+9
+K|H+D,MJc3x!
+x
+3
+?&'v
+x
+4
+,CHr@
+x
+18
+K|H+D,MJc3+UQ.Dk5U+<:Jw
+x
+11
+07LZ?2X@1:Uvg+
+p
+5 0 50 4 1 0 20 1 3 5 5 -1 -1
+50
+f!!!!#-<<!2unov*B`W!*V!S7SU2bB-8giwv*<<!G|ho+C^w!!-E!!!%<`W!z
+5
+878d&/!
+5
+%Pxjw-!
+4
+x
+12
+gC|mArjkSA;?=NC
+x
+9
++''fD((?<@.v
+x
+1
+Q!
+x
+1
+R!
+1
+C 0 5 8 -1 -1 18
+0
+1 1
+11
+07LZ?2X@1:Uvg+
+0 0 256
+x
+26
+K|H+D,MJc3etR7A899+<us,<@0c,gDTew
+x
+28
+07LZ?2X@1:uC#D+07LZ?rN<JD*efU7rjkSA
+p
+14 0 140 18 0 0 60 0 6 14 14 -1 -1
+140
+?GGY!8^w!!?&v!!#**!!/ryX!;Yq9-85C3wMr%p+,Q8s!2&|X!.lvpv2/YQ#DPe`B2eDH&v*
+<<!6G:3w=Sbt!8^w!!Zv#!!.8UNw8f&v!7Gpiw=LE?!BvR4w3,,pv2,tl#:2'v!B:3-&3on9
+vWAtl#=;'v!AGe`B-8giwv*<<!-'!!!
+14
+:tHOwM+hm#Hk(qv4<!
+14
+S:cpv-3-X3HvDqv5E!
+18
+x
+5
+,=;oA;v
+x
+6
+1lo(F^(%
+x
+7
+(#;EF'Lr-
+x
+0
+
+x
+5
+sH..D1v
+x
+3
+jO|+
+x
+1
+S!
+x
+7
+=W7hCVeo+
+x
+5
+s^P4B1v
+x
+12
+gC|mArjkSA;?=NC
+x
+10
+n'?<@%=?<@L(%
+x
+7
+rLa:@_k,,
+i
+-1
+x
+6
+joyCF:Jw
+x
+9
++jdlB,(?<@.v
+x
+15
+u#'AGNAmo6nFfiBbI-,
+x
+3
+d8-&
+x
+11
+nimlB(@VTAYAK+
+0
+0
+2 4
+11
+07LZ?2X@1:Uvg+
+0 0 256
+16
+07LZ?rN<JD*efU7rjkSA
+1 0 256
+8
+qgsY?rN<JD
+2 0 0
+11
+4;QcEhv3-<XU;-
+3 0 0
+x
+30
+K|H+D,MJc3lF=SA?g+7@06'(Fd>TfDh%F:@y(%
+x
+10
+s<pZ?u_C&GK(%
+p
+13 0 157 5 1 1 56 1 4 13 13 -1 -1
+157
+4;,>!8^w!!4Z!!!,`&v!&<`W!<D,>!8^w!!D6%!!-iA=!u2o7-T^w!!.H!!!&E&s!KDe`B.A
+-0%v*<<!9Vbt!O.5,!Jm@%!,,:3w:2Bs!d!!!!eC#!!V8hj%5v!!!+!!!!3+1p+iArr!5v!!
+!1!!!!=hg3wq9IY!8^w!!1Q!!!4M:7#%k'N&,TA9v7oyX!8rn9vz
+13
+:tHOwh;m@)Kh^m#)!
+13
+f)GmGpJZ7wLh:Vv+!
+5
+x
+0
+
+x
+4
+#&.|G
+x
+3
+xIQ,
+x
+1
+R!
+x
+23
+ZRoc3nmGIDjAcf;(?=iCWtX4Bh^c,
+1
+L 0 96 10 109 89 -1
+1
+F
+1 4 5
+4
+6 7 8 9
+1 10
+10
+s<pZ?u_C&GK(%
+0 0 256
+10
+^y`U@ibWhB^+%
+1 0 0
+7
+%p3mBbI-,
+2 0 0
+8
+gF>SAw<,DF
+3 0 0
+0
+
+4 0 512
+0
+
+5 0 512
+3
+gjh-
+6 0 0
+3
+hpq-
+7 0 0
+3
+fd_-
+8 0 0
+3
+W_,,
+9 0 0
+x
+16
+K|H+D,MJc3s^jjB`pulB
+x
+30
+07LZ?|1-.D@wf*F1'0CFm`?A+R(gfDd?F%GYF%
+p
+23 0 321 39 1 0 100 1 14 23 23 -1 -1
+321
+,|&v!@De`B<jTZ)v*<<!f!!!!-/:3w-Z/s!IdR!vqgg`B4v&*'v*<<!/f&v!5cSs!KDe`B:X
+s#)v*<<!2&|X!.`/X!0#>6#?Ybt!7Yw4w/c8=!8oJ=!<&|=!@2o=!D>,>!HJ>>!JMGt!5v!!
+!H!!!!AL<5w;VP>!DoJ=!<&|=!Hbb>!Tnt>!|RdrvF2Bs!L+?:v^8xW*I_9X!P7?:v3rn9vK
+'06wHIh?!ej3svN?T6w3#5pv<N2,!6J5#!#0E<!4``<!Pr+pv<8Ks!5v!!!@!!!!1``<!jx.
+@!'9N<!B8#>!x>GpvD>Ts!5v!!!6!!!!1AU3wR6XXv<.WH&4#YQ#<8tl#8SUNw<k60%@.mf%
+DFNH&H^/*'HO*L%8^w!!4Z!!!0)#t!,hE)!#-3!!z
+23
+D^rL%OgAI&n-4svN4In#Wm<o#V_s!
+23
+^N#F'p1Bt*++/rvygN5wu<O5wy;s!
+39
+x
+18
+K|H+D,MJc3+UQ.Dk5U+<:Jw
+x
+7
+(#;EF'Lr-
+x
+1
+Q!
+x
+26
+K|H+D,MJc3etR7A899+<us,<@0c,gDTew
+x
+5
+sH..D1v
+x
+6
+@5s/Dy`v
+x
+7
+=W7hCVeo+
+x
+5
+s^P4B1v
+x
+4
+ld^LC
+x
+5
+:*-8A1v
+x
+3
+uju,
+x
+5
+5KxhC8v
+x
+4
+%0SQB
+x
+7
+GqP-EUt|+
+x
+1
+R!
+x
+7
+,^>r@k!3-
+x
+2
+y4%
+x
+5
+/F97ADv
+x
+1
+V!
+x
+5
+/F97AEv
+x
+17
+ZRoc3etR7AU_C&GRMJaDDv
+x
+11
+ugrp@+KTfDit|+
+x
+16
+K_;EFVqBxF=WsJD<.fRA
+x
+16
+Nq5DFZKjDF|wraE2Z5)F
+x
+7
+4xBq@m3<-
+x
+5
+s85)F1v
+x
+6
+>6-8ASyw
+x
+3
+b)-&
+x
+4
+j*Z8A
+x
+11
+)mqJD#E>_F7tX'
+x
+9
+njkSAt=sp@1v
+x
+7
+4;QcEi*E-
+x
+24
+Ag=LBC1gY6sNQ<@hwraE!kfV@3RME+
+x
+8
+6fO-EReS%5
+x
+10
+@5s/Dt0H8AN%%
+x
+6
+hIa:@PSw
+x
+6
+*+Z8A|4%
+x
+7
+H;=JDl?`-
+x
+8
+@5s/D!acW@
+1
+C 0 21 6 -1 -1 32
+0
+2 8
+9
+07LZ?|1-.D1v
+0 0 256
+8
+07LZ?lo4Q9
+1 1 256
+x
+9
+R(gfDd?F%G1v
+3
+gaZ,
+2 0 0
+5
+qgsY?R!
+3 0 0
+9
+u_C&GRMJaDDv
+4 0 0
+10
+qgsY?t0H8AN%%
+5 0 0
+9
+rZ8bEIa)S80v
+6 0 0
+7
+qgsY?l(L+
+7 0 0
+x
+15
+rpwhC;Z2b3<?<+EfqT+
+0
+0
+}

@@ -1,0 +1,218 @@
+# TclPro::Compiler::Include
+
+if {[catch {package require tbcload 1.6} err] == 1} {
+    return -code error "[info script]: The TclPro ByteCode Loader is not available or does not support the correct version -- $err"
+}
+tbcload::bceval {
+TclPro ByteCode 2 0 1.7 8.5
+9 0 97 21 1 0 52 1 4 9 9 -1 -1
+97
+w0E<!(H&s!/HW<!<Ki<!5/Ypv=:JE'4;tl#62o9v1oJ=!<&|=!<fAs!.|r<!1oJ=!<&|=!=f
+As!DFNH&@De`B>'6<*v*<<!f!!!!#-<<!<f+pv;1/*'*V!S7z
+9
+B=xOwCyC7#/!
+9
+M=xOwUru<*)!
+21
+x
+9
+njkSAt=sp@1v
+x
+4
+uKhgC
+x
+8
+UJrbD(A_|3
+x
+2
+5?!
+x
+4
+,CHr@
+x
+16
+UJrbD(A_|3aV5DFp?VTA
+x
+4
+%N|(F
+p
+12 0 143 12 2 1 56 1 5 12 12 -1 -1
+143
+w0E<!@De`B3n_c&v*<<!Kh4.!#0E<!;N2,!<nk#!gA*07z)E`W!-BW<!>%:-8qfvpv,N`W!5
+v!!!,!!!!,l4pv1#YQ#,?W<!3f+pv:N2,!LwS%!#0E<!3iA=!=4`H&ih-(!e2xi6z^VUNw7c
+8X!:E.V!;N2,!-i8v!#0E<!w!!!
+12
+I'KM%H_(VvT39lw
+12
+|9nrvLJb6#gtHjw
+12
+x
+4
+DP)*F
+x
+16
+ooENC#:.2C&OxMCtlA(F
+x
+16
+3-y2CrimlBjn*:@6`t!H
+x
+0
+
+x
+5
+3aMTA@v
+x
+1
+Q!
+x
+5
+sB-<@Ev
+x
+3
+ndD-
+x
+20
+UJrbD(A_|3HIa:@_ys^E?8Z)F
+x
+6
+-TPcEQ:%
+x
+4
+njkSA
+x
+34
+N2JxF;NX/DxAjJD#KffD&>_|3QmggCaN&P9`BdZ64nw
+2
+C 0 40 6 -1 -1 51
+L 0 118 6 127 111 -1
+1
+F
+1 2 3
+1
+4
+1 5
+4
+%N|(F
+0 0 256
+16
+3-y2CrimlBjn*:@6`t!H
+1 0 0
+0
+
+2 0 512
+0
+
+3 0 512
+5
+|FYjB0v
+4 0 0
+x
+20
+UJrbD(A_|3HIa:@_ys^E?8Z)F
+x
+6
+'E%6B_-v
+p
+16 0 177 10 1 0 68 1 4 16 16 -1 -1
+177
+Ib4.!#0E<!9N2,!0&Tv!#0E<!;(NH&*K&s!2QA9v0|8X!8^w!!.H!!!(WyTvLGe`BI6j/Iv*
+<<!m36,!4>##!#0E<!5ZW<!B4`H&<N2,!4>##!#0E<!5ZW<!@4`H&=N2,!22fv!#0E<!<25p
+v=>Ts!5v!!!2!!!!6_-4w=.WH&?N2,!0&Tv!,,:3wIaeE'9N2,!-i8v!?-?<*2;L3w_I2*0/
+?J<!z
+16
+;_17#N4%n#I%%n#LX&.&
+16
+JvqNwsx_S#U1hqvUUNkw
+10
+x
+16
+3-y2CrimlBjn*:@6`t!H
+x
+0
+
+x
+24
+d(ap@|@5SA<`90DmO,SA3-y2Cwm<eD
+x
+4
+DP)*F
+x
+16
+lFmCD03,@Gat!Y?wm<eD
+x
+1
+Q!
+x
+19
+d(ap@|@5SA=fTfD!pW/D_e|+
+x
+1
+R!
+x
+14
+hL#4B3,?cEnIfRADPw
+x
+19
+d(ap@|@5SA=fTfDurJ(FjIg+
+1
+L 0 62 104 174 167 -1
+0
+1 8
+4
+%N|(F
+0 0 256
+16
+3-y2CrimlBjn*:@6`t!H
+1 0 0
+13
+'qsY?whG8Ai<;oA;v
+2 0 0
+1
+5v
+3 0 0
+9
+mxoRAuEIlB0v
+4 0 0
+7
+eR9Z?_e|+
+5 0 0
+5
+|FYjB0v
+6 0 0
+19
+'qsY?whG8At!2TAk:K;@rX2-
+7 0 0
+x
+16
++6jaE6'NTA&CIIDll/bE
+x
+4
+3Kb@G
+x
+5
+2;2*F4v
+x
+5
+s85)F1v
+x
+4
+8w`TA
+x
+14
+!!K^F/3s/DwL6<@CSw
+x
+17
+aBHr@8UME+'NB,EvLVTAO!
+x
+6
+gpbSAPSw
+x
+1
+Q!
+x
+15
+rpwhC;Z2b3<?<+EfqT+
+1
+C 0 81 8 -1 -1 94
+0
+}

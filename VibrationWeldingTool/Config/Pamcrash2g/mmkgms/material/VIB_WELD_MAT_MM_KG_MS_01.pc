@@ -1,0 +1,22 @@
+$---5---10----5---20----5---30----5---40----5---50----5---60----5---70----5---80
+UNIT             MM       KG       MS       KELVIN  
+$---5---10----5---20----5---30----5---40----5---50----5---60----5---70----5---80
+$#         IDMAT   MATYP             RHO   ISINT    ISHG  ISTRAT   IFROZ
+MATER /        4     305         1.05E-6       0       0       0       0
+$# BLANK                                                     QVM           IDMPD
+                                                              1.               0
+$#                                                                         TITLE
+NAME VIB_WELD_MAT_MM_KG_MS_01                                                   
+$#     KSI    IELAST     IDELA       ETA    Ncycle     NFEQD     IELIM     IDRUP
+       0.1         0         0        1.        10        10         0         0
+$#  PSLOPE     RSURF    LAMBDA
+      0.15                    
+$#      En     SIGSn   R_SIGSn     SIGDn   R_SIGDn     EFRSn   R_EFRSn     EFRDn
+   0.08675    0.0075        0.        0.        0.    0.0033        0.        0.
+$# R_EFRDn       PCn
+        0.      0.46
+$#      Es     SIGSs   R_SIGSs     SIGDs   R_SIGDs     EFRSs   R_EFRSs     EFRDs
+   0.08675    0.0075        0.        0.        0.    0.0073        0.        0.
+$# R_EFRDs       PCs
+        0.      0.46
+ENDDATA

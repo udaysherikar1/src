@@ -1,0 +1,336 @@
+##
+#\brief Method to create meta data.
+#\param[in] entityType -entity type
+#\param[in] entityIds - entity id
+#\param[in] metadataName - meta data name.
+#\param[in] metadataValue - meta data values.
+#\return
+# TclPro::Compiler::Include
+
+if {[catch {package require tbcload 1.6} err] == 1} {
+    return -code error "[info script]: The TclPro ByteCode Loader is not available or does not support the correct version -- $err"
+}
+tbcload::bceval {
+TclPro ByteCode 2 0 1.7 8.5
+6 0 66 19 0 0 64 0 4 6 6 -1 -1
+66
+w0E<!(H&s!/HW<!:Ki<!5/Ypv;(ic&1uvpv=Go9v8D5>!2Qr<!8fAs!@kUNw<k60%/HW<!C,
+f=!GeUqv%!!
+6
+B=xOw7B!
+6
+M=xOw6?!
+19
+x
+9
+njkSAt=sp@1v
+x
+4
+uKhgC
+x
+12
+H3GPAGO47@ky^|3
+x
+0
+
+x
+4
+,CHr@
+x
+26
+H3GPAGO47@ky^|3HIa:@X`HPAgeW:@LGw
+x
+49
+4YbDFvS`-<;M#D+(6nlBg&_4A2QiSAgeW:@Q6:8@,D3'DkR97AY)ga<tf_TAA!
+p
+7 0 85 9 0 0 32 0 5 7 7 -1 -1
+85
+,|&v!&<`W!7u4Uv8^w!!hL#!!&E&s!-0E<!/TA9vToPA!1H<<!4,,pv)0*!!-0E<!/lA=!0K
+W<!2H<<!8PC3w2lJs!3r&v!,cSs!P&YQ#z
+7
+DI*1%FABv
+7
+36BOwC#j!
+9
+x
+13
+d(ap@waACFrf`aE7v
+x
+1
+R!
+x
+10
+1yqcB.YpJDy:%
+x
+13
+n-q-Dv'nhC&K#DF4v
+i
+0
+x
+19
+=;fCFg|ACFnf`aE'aR.Dl=g+
+x
+19
+=;fCFg|ACFnf`aE<AccE`1w,
+x
+12
+n-q-Dn*wr@qN`aE
+x
+0
+
+0
+0
+4 4
+10
+(6nlB2'TuGLSw
+0 0 256
+9
+(6nlBg&_4A?v
+1 0 256
+12
+t'?<@gp><@NjkSA
+2 0 256
+13
+t'?<@gp><@eJk_F1v
+3 0 256
+x
+32
+H3GPAGO47@ky^|3HIa:@X`HPAgeW:@wO<JD2ZT,E
+x
+26
+H3GPAGO47@ky^|3W=X:@X`HPAgeW:@LGw
+p
+13 0 141 11 0 0 56 0 5 13 13 -1 -1
+141
+,|&v!&<`W!7u4Uv8^w!!KK%!!&E&s!-0E<!/TA9vJnykB64y`'v*<<!1l&v!8ryX!@b(;v5M
+g3w-/:3w0fAs!,|&v!&<`W!7u4Uv8^w!!0N!!!0)#t!<Zbt!8^w!!2T!!!*i=6#6`8X!9EW<
+!4H<<!8PC3w2lJs!5#'v!,cSs!R8:3wz
+13
+DI*1%OU<1%Chgm#.!
+13
+!Co'(S!K.&JFd0%)!
+11
+x
+13
+d(ap@waACFrf`aE7v
+x
+1
+R!
+x
+10
+1yqcB.YpJDy:%
+x
+13
+n-q-Dv'nhC&K#DF4v
+i
+0
+x
+29
+H3GPAGO47@ky^|3:rsl9kR97AEtF=6fx_aE7v
+x
+19
+=;fCFg|ACFnf`aE'aR.Dl=g+
+x
+4
+(w=JD
+x
+19
+=;fCFg|ACFnf`aE<AccE`1w,
+x
+12
+n-q-Dn*wr@qN`aE
+x
+0
+
+0
+0
+4 5
+10
+(6nlB2'TuGLSw
+0 0 256
+9
+(6nlBg&_4A?v
+1 0 256
+12
+t'?<@gp><@NjkSA
+2 0 256
+13
+t'?<@gp><@eJk_F1v
+3 0 256
+9
+*@^Z?yfR.D?v
+4 0 0
+x
+26
+H3GPAGO47@ky^|3GpbSAX`HPAgeW:@LGw
+x
+34
+4YbDFvS`-<;M#D+(6nlBg&_4A2QiSAgeW:@Q6:8@ISw
+p
+5 0 59 8 0 0 20 0 5 5 5 -1 -1
+59
+,|&v!&<`W!7u4Uv8^w!!E8v!!&E&s!-0E<!/TA9v1Gg=!1H<<!4,,pvLSa<!2o=6#-0E<!**
+!!
+5
+DI*1%0!
+5
+ep%4w)!
+8
+x
+13
+d(ap@waACFrf`aE7v
+x
+1
+R!
+x
+10
+1yqcB.YpJDy:%
+x
+13
+n-q-Dv'nhC&K#DF4v
+i
+0
+x
+19
+=;fCFg|ACFnf`aE'aR.Dl=g+
+x
+0
+
+x
+10
++jbSAnwU;@Tew
+0
+0
+3 3
+10
+(6nlB2'TuGLSw
+0 0 256
+9
+(6nlBg&_4A?v
+1 0 256
+12
+t'?<@gp><@NjkSA
+2 0 256
+x
+29
+H3GPAGO47@ky^|3:rsl9kR97AEtF=6fx_aE7v
+x
+33
+(6nlB2'TuG'QYKA7i5DFfj@(F3;fCFg|ACFJ1-.D1v
+p
+9 0 114 11 0 0 36 0 5 9 9 -1 -1
+114
+w0E<!.9`W!7u4Uv8^w!!6`!!!&E&s!0i&v!.on9vLGe`B8F=B(v*<<!.lvpv68#t!8#5UvMJ
+e`BJ>'0.v*<<!8&YQ#M6/cB64y`'#3WW!<5>:v4s#+!w3<!!R8:3w8^w!!-E!!!-/:3wz
+9
+DI*1%RURn#2!
+9
+f#_^(v-bPw-!
+11
+x
+4
+uKhgC
+x
+11
+19DTAtfR.D`UH,
+x
+1
+R!
+x
+11
+n-q-DkR97AXtB+
+x
+10
+n*Z8A!:U;@Tew
+x
+7
+rLa:@_k,,
+x
+6
+5*Z8AT7%
+x
+1
+S!
+i
+-1
+x
+1
+U!
+x
+0
+
+0
+0
+3 5
+10
+(6nlB2'TuGLSw
+0 0 256
+9
+(6nlBg&_4A?v
+1 0 256
+12
+t'?<@gp><@NjkSA
+2 0 256
+15
+*@^Z?Yl<eD,wBCFh^c,
+3 0 0
+4
++|txG
+4 0 0
+p
+7 0 85 9 0 0 32 0 5 7 7 -1 -1
+85
+,|&v!&<`W!7u4Uv8^w!!hL#!!&E&s!-0E<!/TA9vToPA!1H<<!4,,pv)0*!!-0E<!/lA=!0K
+W<!2H<<!8PC3w2lJs!3r&v!,cSs!P&YQ#z
+7
+DI*1%FABv
+7
+36BOwC#j!
+9
+x
+13
+d(ap@waACFrf`aE7v
+x
+1
+R!
+x
+10
+1yqcB.YpJDy:%
+x
+13
+n-q-Dv'nhC&K#DF4v
+i
+0
+x
+19
+=;fCFg|ACFnf`aE'aR.Dl=g+
+x
+19
+=;fCFg|ACFnf`aE<AccE`1w,
+x
+12
+n-q-Dn*wr@qN`aE
+x
+0
+
+0
+0
+4 4
+10
+(6nlB2'TuGLSw
+0 0 256
+9
+(6nlBg&_4A?v
+1 0 256
+12
+t'?<@gp><@NjkSA
+2 0 256
+13
+t'?<@gp><@eJk_F1v
+3 0 256
+x
+15
+rpwhC;Z2b3<?<+EfqT+
+0
+0
+}

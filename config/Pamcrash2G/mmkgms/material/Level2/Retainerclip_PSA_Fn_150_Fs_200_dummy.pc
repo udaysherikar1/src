@@ -1,0 +1,26 @@
+MATER /        1     3021.1000000000E-06       0       0       2       0
+                                                             1.0               0
+NAME Retainerclip_PSA_Fn_150_Fs_200_dummy                                                           
+       0.0       0.0       0.0         1         2         1          
+         1       0.0         1
+
+
+
+
+$          IDFUN    NPTS   SCALX   SCALY  SHIFTX  SHIFTY IFLMEAS   ICOMP
+FUNCT /        1       0     1.0     1.0     0.0     0.0                
+NAME Retainer_axial_stiffness
+                            -1.0            -1.0
+                             0.0             0.0
+                             1.0           300.0
+                END
+$          IDFUN    NPTS   SCALX   SCALY  SHIFTX  SHIFTY IFLMEAS   ICOMP
+FUNCT /        2       0     1.0     1.0     0.0     0.0                
+NAME Retainer_shear_stiffness
+                             0.0             0.0
+                             3.0            10.0
+                END
+RUPMO /        1       0       0        
+NAME Retainer_rupture_Fn_150_Fs_200
+             0.0     0.0     0.0     0.8    10.0    10.0       0     0.0     0.0
+ENDDATA

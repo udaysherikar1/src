@@ -1,0 +1,61 @@
+$---5---10----5---20----5---30----5---40----5---50----5---60----5---70----5---80
+$#         IDMAT   MATYP             RHO   ISINT    ISHG  ISTRAT   IFROZ
+MATER /        1     223          0.0011       0       0       0       0
+$# BLANK                                                     QVM           IDMPD
+                                                              1.               0
+$#                                                                         TITLE
+NAME RIBWeld_Fn_150_Fs_300_dummy                                               
+$#  NLOADr      FTLr IHtr    RUPLtr    RUPUtr    NMFDTr    DLinirINDOF     IDRUP
+         1        1.    0        0.        0.         0        0.    4         2
+$#  NUNLDr      FTUr     MASSr    NDAMPr      FTDr    SLOPtr    DLelar
+         0                 0.5         0        1.                    
+$#  NLOADs      FTLs IHts    RUPLts    RUPUts    NMFDTs    DLinis          ILENG
+         2        1.    0        0.        0.         0        0.              0
+$#  NUNLDs      FTUs     MASSs    NDAMPs      FTDs    SLOPts    DLelas
+         0                 0.5         0        1.                    
+$#  NLOADt      FTLt IHtt    RUPLtt    RUPUtt     NMFDt    DLinit
+         2        1.    0        0.        0.         0        0.
+$#  NUNLDt      FTUt     MASSt    NDAMPt      FTDt    SLOPtt    DLelat
+         0                 0.5         0        1.                    
+$#  MLOADr      FMLr IHrr    RUPLrr    RUPUrr    NMMDTr    RTinir
+         3        1.    0        0.        0.         0        0.
+$#  MUNLDr      FMUr     INERr    MDAMPr      FMDr    SLOPrr    RTelar
+         0                 0.5         0        1.                    
+$#  MLOADs      FMLs IHrs    RUPLrs    RUPUrs    NMMDTs    RTinis
+         3        1.    0        0.        0.         0        0.
+$#  MUNLDs      FMUs     INERs    MDAMPs      FMDs    SLOPrs    RTelas
+         0                 0.5         0        1.                    
+$#  MLOADt      FMLt IHrt    RUPLrt    RUPUrt    NMMDTt    RTinit
+         3        1.    0        0.        0.         0        0.
+$#  MUNLDt      FMUt     INERt    MDAMPt      FMDt    SLOPrt    RTelat
+         0                 0.5         0        1.                    
+$#         IDFUN  FUNTYP   SCALX   SCALY  SHIFTX  SHIFTY IFLMEAS   ICOMP
+FUNCT /        1       2      1.      1.      0.      0.       0       0
+$#                                                                         TITLE
+NAME RIBWeld_AXIAL                                                       
+$#                             X               Y
+                              0.              0.
+                              1.              3.
+$#         IDFUN  FUNTYP   SCALX   SCALY  SHIFTX  SHIFTY IFLMEAS   ICOMP
+FUNCT /        2       2      1.      1.      0.      0.       0       0
+$#                                                                         TITLE
+NAME RIBWeld_SHEAR                                                       
+$#                             X               Y
+                              0.              0.
+                              1.              3.
+$#         IDFUN  FUNTYP   SCALX   SCALY  SHIFTX  SHIFTY IFLMEAS   ICOMP
+FUNCT /        3       2      1.      1.      0.      0.       0       0
+$#                                                                         TITLE
+NAME RIBWeld_ROTATION                                                    
+$#                             X               Y
+                              0.              0.
+                              1.              3.
+$#        IDRUPT   IRUPT   IFMON  FILTER
+RUPMO /        2       5       0        
+$#                                                                         TITLE
+NAME RIBWeld_Fn_150_Fs_300                                                     
+$# BLANK   FAILT   FAILD  AFAILN  AFAILS      A1      A2    INTF      D1      D2
+              0.      0.      1.      7.      1.      1.       0      0.      0.
+$# BLANK  AFAILT  AFAILB      A3      A4
+              0.      0.      1.      1.
+ENDDATA

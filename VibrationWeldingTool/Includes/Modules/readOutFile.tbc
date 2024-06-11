@@ -1,0 +1,774 @@
+# TclPro::Compiler::Include
+
+if {[catch {package require tbcload 1.6} err] == 1} {
+    return -code error "[info script]: The TclPro ByteCode Loader is not available or does not support the correct version -- $err"
+}
+tbcload::bceval {
+TclPro ByteCode 2 0 1.7 8.5
+8 0 88 23 0 0 84 0 4 8 8 -1 -1
+88
+w0E<!(H&s!/HW<!>Ki<!5/Ypv?L+'(4;tl#62o9v<yY>!7c8=!:fAs!F470%:kQK%/HW<!H2
+o=!Ik^qv?L+'(EC3-&?Mo9v<yY>!=Qr<!@KE!!
+8
+B=xOwM=xOw
+8
+M=xOwL4@4w
+23
+x
+9
+njkSAt=sp@1v
+x
+4
+uKhgC
+x
+22
+N,&%FZ^st5<j?E;FmmL:e2!hBHSw
+x
+2
+5?!
+x
+4
+,CHr@
+x
+28
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3RN<JD
+x
+0
+
+p
+11 0 188 23 0 0 60 0 5 11 15 -1 -1
+188
+/rS=!=?<@*(H&s!,`yTv3/5Uv8^w!!-E!!!w3E<!HSa<!9N2,!aNm0!#0E<!=>YQ#RZecB.A
+-0%v*<<!<Mfv!0iA=!7,'v!4r/X!`W*dB62T=!1otsvY^9p>62T=!LQr!+5v!!!.!!!!CmvJ
+&5k2-&8nH4w2>bUvN#/p+meQjw1fo7-W^w!!5|!!!6%ic&/7F)!4qVH&9:JE'8nH4wL#/p+E
+eQjw5ro7-`11r+'**!!
+11
+G!fI&qG2O%M/9v
+15
+`>TsradLlPWgW1%Hrr!
+23
+x
+23
+N,&%FZ^st5|?l#FX1LU7WH=h:_I-,
+x
+0
+
+x
+13
+#(q-DwL6<@J#JaDDv
+x
+8
+?2K(FmF5SA
+x
+23
+O7a:@8%,!FfIBq@EC/`F0KAkB!iq%
+x
+6
+Kh5DFHSw
+x
+4
+G5a'<
+x
+26
+N,&%FZ^st5|?l#F20K^Fg,^i:(:DkBHSw
+x
+6
+I^lsGFGw
+x
+19
+LdV<+JS)!FuKhTA.?c8AtU`w
+x
+30
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3I^lsGFGw
+x
+1
+K!
+x
+7
+ck:EFc4c,
+x
+0
+
+x
+6
+B<EFE_(%
+x
+24
+jnlO.ZAX/::q)_3v3kt5+u;*:oxS@+
+x
+30
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3B<EFE_(%
+x
+12
+MX1kBd3@?6!:_LC
+x
+17
+LdV<+v3kt5+u;*:oxS@+x!
+x
+16
+LdV<+XDB^<wwNJ:ZjpZ3
+x
+36
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3MX1kBd3@?6!:_LC
+x
+10
+NX5r@&UIQBEM#
+x
+0
+
+0
+0
+0 1
+12
+07LZ?hM*QAk'cOB
+0 0 0
+x
+30
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3I^lsGFGw
+x
+25
+07LZ?m'cSANjkSAF@ccEbb?f;h!cr@4v
+p
+21 0 234 18 1 1 92 1 5 21 21 -1 -1
+234
+,|&v!,cSs!KDe`B8F=B(v*<<!(H&s!5|8X!/lSs!9EW<!8,,pv:N2,!6J5#!#0E<!9Sp3w5&
+#pv=2Bs!5v!!!.!!!!<C8I&=N2,!upr)!,,:3w|OVd/Jh4,!aMg'!,,:3w?>Ts!d!!!!eC#!
+!m|/7-5v!!!4!!!!;VL3w/s<3w9Qos!5v!!!.!!!!8<#:=#;1-fP*n<vAVe`B2eDH&v*<<!<
+VYUv?eCVv8^w!!NSv!!18YUv(Ko7-LuS=!>,f=!GeUqv=N2,!-i8v!#0E<!Ogm<v.TW<!G>G
+pv#!!
+21
+5_wn#@nUm#fA!A)L3LC(Pgi1%2!
+21
+X6BlwNjN5w.Y5L'M!,e&nf4kw'!
+18
+x
+4
+*dmID
+x
+1
+>v
+x
+5
+0a%lB@v
+x
+4
+i%97A
+x
+1
++!
+x
+5
+)lP)F1v
+x
+7
+rLa:@_k,,
+x
+4
+3N!iC
+x
+0
+
+i
+-1
+x
+3
+Yt|+
+x
+4
+(w=JD
+x
+13
+#(q-DwL6<@J#JaDDv
+x
+8
+?2K(FmF5SA
+x
+22
+tTbWF(7HSA.y-fD)+ME+0lTKD^Wv
+x
+6
+Kh5DFHSw
+x
+4
+G5a'<
+x
+37
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3hIa:@ckabDN/*QA@v
+1
+L 0 120 33 156 113 -1
+1
+F
+1 6 7
+1
+8
+2 10
+12
+07LZ?m'cSANjkSA
+0 0 256
+12
+07LZ?hM*QAk'cOB
+1 0 256
+11
+*dmIDKc`W7ytf+
+2 0 0
+12
+*@^Z?m'cSAGp><@
+3 0 0
+9
+*@^Z?mxoRADv
+4 0 0
+16
+*@^Z?86nlBShabDC?^4A
+5 0 0
+0
+
+6 0 512
+0
+
+7 0 512
+5
+mxoRADv
+8 0 0
+12
+86nlBShabDC?^4A
+9 0 0
+x
+36
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3MX1kBd3@?6!:_LC
+p
+22 0 271 18 2 2 104 2 5 22 26 -1 -1
+271
+,|&v!,cSs!KDe`B8F=B(v*<<!(H&s!5|8X!/lSs!9EW<!8,,pv:N2,!.oAv!#0E<!?2Bs!5v
+!!!xv!!!>4NH&lh-(!e2xi6z&R6,!:bY#!#0E<!;Yw4w6r&=!7r+pvAJfs!5v!!!vv!!!5#0
+=!p_BO75v!!!c!!!!E^8I&ph-(!f8di6v*<<!.i3,!6J5#!.8L3w4Ux^:3v!!!Db5t!5v!!!
+.!!!!;N>:=u(PKeNwn<vM#/p+^dSs!5v!!!2!!!!8k?4w>.WH&<N2,!N0e%!,,:3wY4uH/q@
+qiw>vRK%B:3-&CMe`B-8giwv*<<!Jfho+/cSs!A_>:v)'!!
+22
+5_wn#EF3L%e3o.&Qy-0%_X&.&?T!
+26
+X6Blw<8fsry7o8O7R4<6S(x0%th%5%33!
+18
+x
+4
+*dmID
+x
+1
+>v
+x
+5
+0a%lB@v
+x
+4
+i%97A
+x
+1
++!
+x
+5
+)lP)F1v
+x
+0
+
+x
+7
+rLa:@_k,,
+x
+4
+3N!iC
+x
+1
+K!
+i
+-1
+x
+4
+(w=JD
+x
+13
+#(q-DwL6<@J#JaDDv
+x
+8
+?2K(FmF5SA
+x
+22
+tTbWF(7HSA.y-fD)+ME+0lTKD^Wv
+x
+6
+Kh5DFHSw
+x
+4
+G5a'<
+x
+37
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3hIa:@ckabDN/*QA@v
+2
+L 0 82 112 197 75 -1
+L 1 150 35 188 143 -1
+2
+F
+1 5 6
+1
+7
+F
+1 9 10
+1
+11
+2 13
+12
+07LZ?m'cSANjkSA
+0 0 256
+12
+07LZ?hM*QAk'cOB
+1 0 256
+11
+*dmIDKc`W7ytf+
+2 0 0
+12
+*@^Z?m'cSAGp><@
+3 0 0
+16
+*@^Z?86nlBShabDC?^4A
+4 0 0
+0
+
+5 0 512
+0
+
+6 0 512
+8
+07LZ?=AhEF
+7 0 0
+9
+*@^Z?mxoRADv
+8 0 0
+0
+
+9 0 512
+0
+
+10 0 512
+5
+mxoRADv
+11 0 0
+12
+86nlBShabDC?^4A
+12 0 0
+x
+30
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3B<EFE_(%
+p
+21 0 236 17 1 1 92 1 5 21 21 -1 -1
+236
+,|&v!,cSs!KDe`B8F=B(v*<<!(H&s!5|8X!/lSs!9EW<!8,,pv:N2,!6J5#!#0E<!9Sp3w5&
+#pv=2Bs!5v!!!.!!!!<C8I&=N2,!v(0*!,,:3w|OVd/Ln4,!cYw(!,,:3w?>Ts!d!!!!eC#!
+!ooem-5v!!!6!!!!;VL3w6+#,!5v`H&AN2,!.oAv!,,:3w5dMs!vI`Q#P&YQ#8^w!!2T!!!-
+/:3w8f8X!NMe`BNb>H/v*<<!9)YQ#=LE?!:uS=!>,f=!>lJs!5v!!!-!!!!+Ti!!P&YQ#?4m
+4w.?3!!
+21
+5_wn#@nUm#fA!A)N?^C(Pgi1%2!
+21
+X6BlwNjN5w4().(O!,e&nf4kw'!
+17
+x
+4
+*dmID
+x
+1
+>v
+x
+5
+0a%lB@v
+x
+4
+i%97A
+x
+1
++!
+x
+5
+)lP)F1v
+x
+7
+rLa:@_k,,
+x
+4
+3N!iC
+x
+0
+
+i
+-1
+x
+4
+(w=JD
+x
+13
+#(q-DwL6<@J#JaDDv
+x
+8
+?2K(FmF5SA
+x
+22
+tTbWF(7HSA.y-fD)+ME+0lTKD^Wv
+x
+6
+Kh5DFHSw
+x
+4
+G5a'<
+x
+37
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3hIa:@ckabDN/*QA@v
+1
+L 0 120 35 158 113 -1
+1
+F
+1 6 7
+1
+8
+2 10
+12
+07LZ?m'cSANjkSA
+0 0 256
+12
+07LZ?hM*QAk'cOB
+1 0 256
+11
+*dmIDKc`W7ytf+
+2 0 0
+12
+*@^Z?m'cSAGp><@
+3 0 0
+9
+*@^Z?mxoRADv
+4 0 0
+16
+*@^Z?86nlBShabDC?^4A
+5 0 0
+0
+
+6 0 512
+0
+
+7 0 512
+5
+mxoRADv
+8 0 0
+12
+86nlBShabDC?^4A
+9 0 0
+x
+37
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3hIa:@ckabDN/*QA@v
+x
+16
+*@^Z?86nlBShabDC?^4A
+p
+17 0 241 29 0 0 72 0 6 17 17 -1 -1
+241
+4;,>!'3E<!1;L3w/fAs!5v!!!A!!!!(E`<!-l4pvA4nmw*H`W!.iSs!Nivpv8^w!!qg#!!*i
+=6#c@2I/l#3,!.oAv!#0E<!_>&p+geQjw*Qo7-F^w!!.H!!!.8UNwq=5^)62T=!<(KL&5v!!
+!.!!!!:7&I&JSa<!8P60%3VQK%4W/X!B:3-&3T/X!CMe`B:Xs#)v*<<!6l`W!=AB=!;%ic&?
+Ybt!8^w!!2T!!!6+/*'3W8X!:HW<!99N<!H)oTvDXN5wB1%Wv1lJs!TQ(w)Xi^Z)Iq5Uv8^w
+!!,B!!!,`&v!z
+17
+:nwn#a).D(h'+o#Y0Ya'.!
+17
+ZQ'U#?/Q1%k&6N%x'B2%,!
+29
+x
+8
+rf9W?Hx'q6
+x
+11
+19DTAtfR.D`UH,
+x
+4
+7u(*F
+x
+1
+R!
+x
+13
+n-q-Dv'nhC&K#DF4v
+x
+11
+,-7hC#gR.D`UH,
+x
+0
+
+x
+26
+N,&%FZ^st5|?l#F20K^Fg,^i:(:DkBHSw
+x
+6
+I^lsGFGw
+x
+4
+S^oRA
+x
+12
+MX1kBd3@?6!:_LC
+x
+5
+XeOJ:e!
+x
+6
+B<EFE_(%
+x
+13
+19DTAls#SA7i5DFEv
+x
+10
+g*)9AkX54Bn/#
+x
+11
+s?%hCtg:kBHQ-&
+x
+5
+njkSA^!
+x
+11
+hL#4B(aQ<@h:g+
+x
+11
+gp><@njkSA,e|+
+x
+4
+(w=JD
+x
+9
+CMfCF0Kk_F1v
+x
+3
+,kO'
+x
+10
+J.b`44@c8AO(%
+x
+1
+Iv
+x
+13
+#(q-DwL6<@J#JaDDv
+x
+8
+?2K(FmF5SA
+x
+38
+HIa:@26sJD7O,D+86nlBwJNBD%)#D+91VE+'NB,EvLVTA^Wv
+x
+6
+Kh5DFHSw
+x
+4
+G5a'<
+0
+0
+1 5
+16
+*@^Z?86nlBShabDC?^4A
+0 0 256
+11
+07LZ?s^oRANdD-
+1 0 0
+13
+07LZ?g*)9AKX54B1v
+2 0 0
+5
+bNyT80v
+3 0 0
+11
+*@^Z?s^oRABx;-
+4 0 0
+x
+41
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3c&+mBlm1HDsI|7AS^oRA?v
+p
+29 0 384 32 1 1 124 1 12 29 33 -1 -1
+384
+w0E<!(H&s!6r4Uv8^w!!R_v!!'NA9v(H&s!8GV9-EKi<!0W&=!9;kpv=N2,!-i8v!#0E<!Qg
+m<vD_e`B.A-0%v*<<!@_,>!3&|=!8Z/s!=hpiw5)Ts!8^w!!.H!!!2ylf%KDe`B.A-0%v*<<
+!Anbt!8^w!!=v(!!,`&v!'HxN6ze!!!!HAv!!7M8,!:bY#!#0E<!59N<!G;5Uv<qgqv@D|s!
+5v!!!:!!!!48#>!?:!5w/EN<!O:iH&@N2,!:bY#!#0E<!59N<!G;5Uv>(%rvBPos!H1;7#Fq
+pm#7J:3w9Mk6#8^w!!4Z!!!9F+'(/2:3wE@!5w'3E<!=?W<!Tnp3wF%.4w>nt>!0?W<!@A5t
+!5v!!!4!!!!>t(?!Bl4pv-X;s!D*W8s/-,t!5v!!!2!!!!H!'6w=.WH&(0*!!@'w!*2,#t!0
+KW<!y+;?!5AtpvG?ZW*FV9X!E=V?!7iA=!7iA=!7WW!!
+29
+B7IOwT=_7#cP`=*UwBI&Uaxn#cT#+'KCmOw(!
+33
+u|v1%KqUm#=N3<!XgMT)qYd@)yjxS#i-Td&FtC7#/!
+32
+x
+4
+uKhgC
+x
+11
+19DTAtfR.D`UH,
+x
+5
+s^oRA?v
+x
+1
+R!
+x
+13
+n-q-Dv'nhC&K#DF4v
+x
+13
+#(q-DwL6<@J#JaDDv
+x
+8
+?2K(FmF5SA
+x
+40
+m5nlBwJNBD#mJ(F>%lDF7k1`F(rpcB3Pl^F/jmID=VwfD0*5o/
+x
+6
+Kh5DFHSw
+x
+4
+G5a'<
+x
+1
+Q!
+x
+0
+
+x
+11
+c&+mB^&Ua<g!`-
+x
+11
+;`R.D8iG%Gg!`-
+x
+13
+AG#%G!=HSA0p&(F7v
+x
+2
+-|v
+x
+11
+hL#4B(aQ<@h:g+
+x
+3
+,kO'
+x
+16
+gp><@njkSAL&seDtegyG
+x
+16
+gp><@njkSAL&seDun-#H
+x
+16
+gp><@njkSAL&seD!#I>H
+x
+11
+19DTAuomIDZyf+
+x
+14
+f:BRA7i5DF7HYxGDPw
+x
+5
+pNR.D?v
+x
+9
+;a,!F'p/bE1v
+x
+6
++0elB@Sw
+x
+10
+hL#4Bt*U;@Tew
+x
+4
+(w=JD
+x
+8
+pNR.D2;)*F
+x
+15
+8o&(F*ZbDF;5^0D`UH,
+x
+12
+8o&(F0|G%G'mMTA
+x
+7
+E;=JDl?`-
+1
+L 0 150 161 317 140 -1
+1
+F
+1 4 5
+1
+6
+1 11
+16
+*@^Z?86nlBShabDC?^4A
+0 0 256
+15
+07LZ?4;QcEj4ic<g!`-
+1 0 0
+12
+(%?SAWZ^8@-22*F
+2 0 0
+15
+*@^Z?PNR.DP!Fl9aXH,
+3 0 0
+0
+
+4 0 512
+0
+
+5 0 512
+12
+(<TKDsI|7AS^oRA
+6 0 0
+10
+s^oRA!wveDTtw
+7 0 0
+10
+s^oRAv'veDTtw
+8 0 0
+10
+s^oRA#*veDTtw
+9 0 0
+13
+vp/fDKDO^El?VTA0v
+10 0 0
+x
+46
+N,&%FZ^st5<j?E;FmmL:e2!hBgh^|3'FMTAnQF%GgviH<(7HSAR4b8AO(%
+p
+3 0 21 5 0 0 12 0 3 3 3 -1 -1
+21
+)Nr<!'3E<!-l4pv,TA9v,|8X!z
+3
+/fr!
+3
+5`W!
+5
+x
+18
+8?c8AfjbSAwsVTA#tT;@Tew
+x
+16
+AAK(F2^DTA3Kb@GwpENC
+x
+11
+c&+mB^&Ua<g!`-
+x
+1
+Q!
+x
+11
+;`R.D8iG%Gg!`-
+0
+0
+0 0
+x
+15
+rpwhC;Z2b3<?<+EfqT+
+0
+0
+}

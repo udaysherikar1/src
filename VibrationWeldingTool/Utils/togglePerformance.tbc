@@ -1,0 +1,71 @@
+# TclPro::Compiler::Include
+
+if {[catch {package require tbcload 1.6} err] == 1} {
+    return -code error "[info script]: The TclPro ByteCode Loader is not available or does not support the correct version -- $err"
+}
+tbcload::bceval {
+TclPro ByteCode 2 0 1.7 8.5
+2 0 22 9 0 0 12 0 4 2 2 -1 -1
+22
+w0E<!(H&s!/HW<!0Ki<!5/Ypv%!!
+2
+,B!
+2
+6?!
+9
+x
+9
+njkSAt=sp@1v
+x
+4
+uKhgC
+x
+26
+N,&%FZ^st5Q(&0Bs?lSA,V&I<4Q5)F@&#
+x
+4
+_ZT6w
+x
+4
+,CHr@
+x
+43
+N,&%FZ^st5Q(&0Bs?lSA,V&I<4Q5)FYbAcDl!cSAZH_oA'%U;@XYf+
+x
+6
+`w@hC?Yw
+p
+1 0 9 2 0 0 8 0 3 1 1 -1 -1
+9
+,|&v!,cSs!z
+1
+z
+1
+)!
+2
+x
+6
+?r5DFByw
+x
+486
+6dV<+LdV<+9kAoAEMXQH6dV<+LdV<+LdV<+C7BTAwO<JD#j<NC!qbSA'<XeDSFbH0QvV<+Ld
+V<+LdV<+FfyLA7i5DF)%)5Bq0)5B+3=JDidqv46dV<+LdV<+LdV<+!IsY?m0Hr@(3K(FmF5S
+A!k%#46dV<+LdV<+LdV<+!IsY?w3F/Dfd5nA%0K(F&@VTAapK9wLdV<+LdV<+LdV<+ctEU@!
+:_LC%a&bEKx(d0QvV<+LdV<+LdV<+7%k.DilreDr#0bE8Qs/DwL6<@,+ME+b1::+LdV<+TX9
+3I6dV<+LdV<+A^pJDEA!8wLdV<+LdV<+|(j:@BFVE+<#V<+LdV<+LdV<+S1ixEp*ljB&g`aE
+'x7hCrimlB=FME+b1::+LdV<+LdV<+VifN.(6nlB6dVkBqH%lBwwnlBH+(d0QvV<+LdV<+Ld
+V<+7%k.DilreDm3lSA&k54BJFbH0QvV<+LdV<+LdV<+7%k.DkoW/DmgY8Am'cSA49BCFhj%#
+46dV<+LdV<+LdV<+!IsY?m0Hr@sd|7A77qE+a1::+LdV<+LdV<+?ESHBgapgCodYSA=u5cE0
+ot)FmuJ(FapK9wLdV<+LdV<+>#V<+a,v
+0
+0
+1 1
+6
+`w@hC?Yw
+0 0 256
+x
+15
+rpwhC;Z2b3<?<+EfqT+
+0
+0
+}
